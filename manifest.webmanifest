@@ -1,6 +1,6 @@
 {
     "name": "Rehmonnyayouth",
-    "short_name": "study application form",
+    "short_name": "RMY",
     "icons": [
       {
         "src": "ryeclogo.png",
@@ -25,5 +25,5 @@
         }
     ],
     "display": "standalone",
-    "start_url": "https://ramonyayouth.github.io/study-application-form/"
+    "start_url": "https://ramonyayouth.github.io/index/index.html"
 }
